@@ -5,6 +5,6 @@ Two ways to do Text to Speech
     With the help of os Library:   
     https://pypi.org/  
     
-   With the help of pyttxs Library: 
+   With the help of pyttxs Library:     
    https://pypi.org/project/pyttsx3/
     
